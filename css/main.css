@@ -63,6 +63,7 @@ overflow: hidden;
     margin-left: 8px;
     color: #000000;
     text-decoration: underline;
+    font-weight: 600;
 }
 .product-carousel-section .rating a:hover {
     text-decoration: none;
@@ -92,6 +93,7 @@ overflow: hidden;
     border: 0;   
     font-weight: 600; 
     text-transform: capitalize;
+    border-radius: 8px;
 } 
 .product-carousel-section .price {
     display: flex;
@@ -99,7 +101,7 @@ overflow: hidden;
     justify-content: center;
     text-align: center;
     padding-bottom: 10px;
-    font-weight: 500;
+    font-weight: 700;
 }
 .product-carousel-section .price del {
     color: #000000;
